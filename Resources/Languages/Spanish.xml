@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<PluginStrings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<__Language__>Spanish</__Language__>
+	<__LanguageCode__>es</__LanguageCode__>
+	<__Author__>Ashboss</__Author__>
+
+	<ActionSourceVisibility>Establecer la visibilidad de la fuente de OBS</ActionSourceVisibility>
+	<ActionSourceVisibilityDescription>Ocultar/mostrar/alternar la visibilidad de la fuente de la escena</ActionSourceVisibilityDescription>
+	<ActionSetAudioMuted>Configurar el silenciamiento de la fuente de audio OBS</ActionSetAudioMuted>
+	<ActionSetAudioMutedDescription>Silenciar/reactivar/alternar fuente de audio</ActionSetAudioMutedDescription>
+	<ActionSetSourceVolume>Establecer el volumen de la fuente de OBS</ActionSetSourceVolume>
+	<ActionSetSourceVolumeDescription>Establecer el volumen de una fuente de audio</ActionSetSourceVolumeDescription>
+	<ActionSetProfile>Establecer perfil de OBS</ActionSetProfile>
+	<ActionSetProfileDescription>Establecer el perfil de OBS</ActionSetProfileDescription>
+	<ActionSetRecordingState>Establecer el estado de grabación de OBS</ActionSetRecordingState>
+	<ActionSetRecordingStateDescription>Iniciar/detener/alternar grabación</ActionSetRecordingStateDescription>
+	<ActionSetStreamingState>Establecer el estado de transmisión de OBS</ActionSetStreamingState>
+	<ActionSetStreamingStateDescription>Iniciar/detener/alternar transmisión</ActionSetStreamingStateDescription>
+	<ActionSetVirtualCamState>Establecer el estado de la cámara virtual OBS</ActionSetVirtualCamState>
+	<ActionSetVirtualCamStateDescription>Iniciar/detener/alternar cámara virtual</ActionSetVirtualCamStateDescription>
+	<ActionSetScene>Establecer escena OBS</ActionSetScene>
+	<ActionSetSceneDescription>Establece una escena configurada como escena activa</ActionSetSceneDescription>
+	<ActionToggleConnection>Alternar conexión OBS</ActionToggleConnection>
+	<ActionToggleConnectionDescription>Alterna la conexión entre OBS y Macro Deck</ActionToggleConnectionDescription>
+	<Source>Fuente</Source>
+	<Mute>desactivar el sonido</Mute>
+	<Unmute>Activar sonido</Unmute>
+	<Toggle>Interruptor de palanca</Toggle>
+	<GeneralBy>por</GeneralBy>
+	<GeneralTo>a la</GeneralTo>
+	<Increase>Incrementar</Increase>
+	<Decrease>disminución</Decrease>
+	<Set>colocar</Set>
+	<ErrorNotConnected>Macro Deck no está conectado a OBS. Asegúrese de que OBS y el complemento OBS-WebSocket funcionen correctamente y configure el complemento</ErrorNotConnected>
+	<Host>Host</Host>
+	<Password>contraseña</Password>
+	<AuthenticationFailed>Error de autenticación de OBS</AuthenticationFailed>
+	<InfoWrongPassword>Asegúrate de haber configurado la contraseña correcta.</InfoWrongPassword>
+	<ConnectionFailed>Error de conexión OBS</ConnectionFailed>
+	<InfoWrongHost>Asegúrese de configurar el host correcto y que OBS se esté ejecutando con el complemento OBS-WebSocket instalado</InfoWrongHost>
+	<Profile>perfil</Profile>
+	<Scene>Escena</Scene>
+	<Start>comienzo</Start>
+	<Stop>parada</Stop>
+	<Hide>esconder</Hide>
+	<Show>Show</Show>
+</PluginStrings>
